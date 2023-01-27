@@ -1,0 +1,12 @@
+{
+  "Name": "Basic Uploader",
+  "DestinationType": "ImageUploader, TextUploader, FileUploader",
+  "RequestType": "POST",
+  "RequestURL": "http://localhost/upload.php",
+  "FileFormName": "sharex",
+  "Arguments": {
+    "secret": "DsGs3myz"
+  },
+  "ResponseType": "Text",
+  "URL": "http://localhost/images/$json:url$"
+}
