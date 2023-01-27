@@ -1,8 +1,8 @@
 # ShareX uploader backend
-Backend for a simple ShareX uploader in PHP
+Backend for a simple ShareX uploader in PHP.
 
 # How to use
-1. Add upload.php to your web server.
+1. Add **upload.php** to your web server.
 2. Create an **images/** directory.
 3. Open **upload.php**, change the $TOKENS array and insert your own secrets there.
 
