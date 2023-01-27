@@ -4,7 +4,7 @@ header('Content-type:application/json;charset=utf-8');
 error_reporting(E_ERROR);
 
 // Configuration
-$TOKENS = array("DsGs3myz", "XnLs5tCt"); // Passwords for 'secret'
+$TOKENS = ["DsGs3myz", "XnLs5tCt"]; // Passwords for 'secret'
 $DIRECTORY = "images/"; // File directory
 $IMAGE_LENGTH = 7; //Length of file name
 
