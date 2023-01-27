@@ -1,5 +1,5 @@
 # ShareX uploader backend
-Backend for a simple ShareX uploader in PHP.
+Simple ShareX uploader backend in PHP.
 
 # How to use
 1. Add **upload.php** to your web server.
