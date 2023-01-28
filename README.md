@@ -16,7 +16,7 @@ Simple ShareX uploader backend in PHP.
 
    ![image](https://user-images.githubusercontent.com/52250786/214979861-516920e2-609a-4c59-8618-56f5df344dbf.png)
 
-6. Apply the config file by double clicking on it.
+6. Apply the config file by double clicking on **config.sxcu**.
 7. Make ShareX upload the image to a web server after capturing it.
 
    ![Colorless-Indri_27 01 2023](https://user-images.githubusercontent.com/52250786/214980454-95fe9525-b372-4f1f-90ca-33203316f39d.png)
